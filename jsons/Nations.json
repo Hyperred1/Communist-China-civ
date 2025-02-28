@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Chinese Soviet Republic",
+		"leaderName": "Mao Zendog",
+		"adjective": ["Chinese"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "."
+		
+		"declaringWar": "We will destroy you!",
+		"attacked": "you will be defeated just like the nationalist",
+		"defeated": "The chinese people will never accept you !",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, we "might" not attack again...",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Beijinj","shanghai","hong kong","","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+]
